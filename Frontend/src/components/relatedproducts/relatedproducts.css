@@ -1,0 +1,22 @@
+.Relatedproducts{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    height: 200px;
+}
+.Relatedproducts h1{
+    text-align: center;
+    color: black;
+}
+.Relatedproducts hr{
+    width: 100px;
+    height: 20px;
+    background-color: black;
+    border-radius: 10px;
+}
+.Relateditems{
+    margin-top: 10px;
+    display: flex;
+    gap: 20px;
+}

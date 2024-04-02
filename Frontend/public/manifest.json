@@ -1,0 +1,12 @@
+{
+  "short_name": "Carpet Store",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "../src/components/assets/logo.jpg",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
